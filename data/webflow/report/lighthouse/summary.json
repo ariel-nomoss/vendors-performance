@@ -1,0 +1,392 @@
+[
+  {
+    "url": "https://www.meter.com/",
+    "name": "www_meter_com_",
+    "file": "www_meter_com_.report.json",
+    "score": 0.73,
+    "detail": {
+      "performance": 0.46,
+      "accessibility": 0.96,
+      "best-practices": 0.87,
+      "seo": 0.93,
+      "pwa": 0.42
+    }
+  },
+  {
+    "url": "https://drink.health-ade.com/",
+    "name": "drink_health-ade_com_",
+    "file": "drink_health-ade_com_.report.json",
+    "score": 0.74,
+    "detail": {
+      "performance": 0.66,
+      "accessibility": 0.78,
+      "best-practices": 0.8,
+      "seo": 0.97,
+      "pwa": 0.5
+    }
+  },
+  {
+    "url": "https://emma.ca/",
+    "name": "emma_ca_",
+    "file": "emma_ca_.report.json",
+    "score": 0.66,
+    "detail": {
+      "performance": 0.33,
+      "accessibility": 0.77,
+      "best-practices": 0.8,
+      "seo": 0.89,
+      "pwa": 0.5
+    }
+  },
+  {
+    "url": "https://www.craft.do/",
+    "name": "www_craft_do_",
+    "file": "www_craft_do_.report.json",
+    "score": 0.73,
+    "detail": {
+      "performance": 0.58,
+      "accessibility": 0.93,
+      "best-practices": 0.8,
+      "seo": 0.86,
+      "pwa": 0.5
+    }
+  },
+  {
+    "url": "https://contentwritingjobs.com/",
+    "name": "contentwritingjobs_com_",
+    "file": "contentwritingjobs_com_.report.json",
+    "score": 0.74,
+    "detail": {
+      "performance": 0.59,
+      "accessibility": 0.91,
+      "best-practices": 0.87,
+      "seo": 0.85,
+      "pwa": 0.5
+    }
+  },
+  {
+    "url": "https://www.unusual.vc/",
+    "name": "www_unusual_vc_",
+    "file": "www_unusual_vc_.report.json",
+    "score": 0.77,
+    "detail": {
+      "performance": 0.57,
+      "accessibility": 0.86,
+      "best-practices": 0.93,
+      "seo": 1,
+      "pwa": 0.5
+    }
+  },
+  {
+    "url": "https://www.covid-19vaccinetracker.org/",
+    "name": "www_covid-19vaccinetracker_org_",
+    "file": "www_covid-19vaccinetracker_org_.report.json",
+    "score": 0.72,
+    "detail": {
+      "performance": 0.47,
+      "accessibility": 0.9,
+      "best-practices": 0.87,
+      "seo": 0.88,
+      "pwa": 0.5
+    }
+  },
+  {
+    "url": "https://www.hologram.io/",
+    "name": "www_hologram_io_",
+    "file": "www_hologram_io_.report.json",
+    "score": 0.7,
+    "detail": {
+      "performance": 0.53,
+      "accessibility": 0.93,
+      "best-practices": 0.67,
+      "seo": 0.89,
+      "pwa": 0.5
+    }
+  },
+  {
+    "url": "https://ollivere.webflow.io/",
+    "name": "ollivere_webflow_io_",
+    "file": "ollivere_webflow_io_.report.json",
+    "score": 0.7,
+    "detail": {
+      "performance": 0.49,
+      "accessibility": 0.83,
+      "best-practices": 0.93,
+      "seo": 0.92,
+      "pwa": 0.33
+    }
+  },
+  {
+    "url": "https://www.mackandpouya.com/",
+    "name": "www_mackandpouya_com_",
+    "file": "www_mackandpouya_com_.report.json",
+    "score": 0.66,
+    "detail": {
+      "performance": 0.22,
+      "accessibility": 0.87,
+      "best-practices": 0.73,
+      "seo": 1,
+      "pwa": 0.5
+    }
+  },
+  {
+    "url": "https://webflow.com/year-in-review/2020",
+    "name": "webflow_com_year-in-review_2020",
+    "file": "webflow_com_year-in-review_2020.report.json",
+    "score": 0.66,
+    "detail": {
+      "performance": 0.19,
+      "accessibility": 0.93,
+      "best-practices": 0.67,
+      "seo": 1,
+      "pwa": 0.5
+    }
+  },
+  {
+    "url": "https://oreo-the-playful-network.webflow.io/",
+    "name": "oreo-the-playful-network_webflow_io_",
+    "file": "oreo-the-playful-network_webflow_io_.report.json",
+    "score": 0.7,
+    "detail": {
+      "performance": 0.47,
+      "accessibility": 0.81,
+      "best-practices": 0.93,
+      "seo": 0.95,
+      "pwa": 0.33
+    }
+  },
+  {
+    "url": "https://www.thecrowndistrictstl.com/",
+    "name": "www_thecrowndistrictstl_com_",
+    "file": "www_thecrowndistrictstl_com_.report.json",
+    "score": 0.74,
+    "detail": {
+      "performance": 0.65,
+      "accessibility": 0.94,
+      "best-practices": 0.93,
+      "seo": 0.7,
+      "pwa": 0.5
+    }
+  },
+  {
+    "url": "https://www.michaelkors-collection.com/",
+    "name": "www_michaelkors-collection_com_",
+    "file": "www_michaelkors-collection_com_.report.json",
+    "score": 0.74,
+    "detail": {
+      "performance": 0.43,
+      "accessibility": 0.98,
+      "best-practices": 0.87,
+      "seo": 0.92,
+      "pwa": 0.5
+    }
+  },
+  {
+    "url": "https://www.dwellito.com/",
+    "name": "www_dwellito_com_",
+    "file": "www_dwellito_com_.report.json",
+    "score": 0.72,
+    "detail": {
+      "performance": 0.49,
+      "accessibility": 0.95,
+      "best-practices": 0.73,
+      "seo": 0.91,
+      "pwa": 0.5
+    }
+  },
+  {
+    "url": "https://renevendeville-new.webflow.io/",
+    "name": "renevendeville-new_webflow_io_",
+    "file": "renevendeville-new_webflow_io_.report.json",
+    "score": 0.73,
+    "detail": {
+      "performance": 0.81,
+      "accessibility": 0.86,
+      "best-practices": 0.8,
+      "seo": 0.86,
+      "pwa": 0.33
+    }
+  },
+  {
+    "url": "https://www.thepentool.co/",
+    "name": "www_thepentool_co_",
+    "file": "www_thepentool_co_.report.json",
+    "score": 0.84,
+    "detail": {
+      "performance": 0.76,
+      "accessibility": 1,
+      "best-practices": 0.93,
+      "seo": 1,
+      "pwa": 0.5
+    }
+  },
+  {
+    "url": "https://www.byalicelee.com/",
+    "name": "www_byalicelee_com_",
+    "file": "www_byalicelee_com_.report.json",
+    "score": 0.7,
+    "detail": {
+      "performance": 0.37,
+      "accessibility": 0.93,
+      "best-practices": 0.87,
+      "seo": 0.92,
+      "pwa": 0.42
+    }
+  },
+  {
+    "url": "https://www.photosbyemmarose.com/",
+    "name": "www_photosbyemmarose_com_",
+    "file": "www_photosbyemmarose_com_.report.json",
+    "score": 0.73,
+    "detail": {
+      "performance": 0.46,
+      "accessibility": 0.87,
+      "best-practices": 1,
+      "seo": 0.83,
+      "pwa": 0.5
+    }
+  },
+  {
+    "url": "https://ujet-wip-2020.webflow.io/",
+    "name": "ujet-wip-2020_webflow_io_",
+    "file": "ujet-wip-2020_webflow_io_.report.json",
+    "score": 0.73,
+    "detail": {
+      "performance": 0.55,
+      "accessibility": 0.94,
+      "best-practices": 0.87,
+      "seo": 0.94,
+      "pwa": 0.33
+    }
+  },
+  {
+    "url": "https://www.kubo-patisserie.com/",
+    "name": "www_kubo-patisserie_com_",
+    "file": "www_kubo-patisserie_com_.report.json",
+    "score": 0.73,
+    "detail": {
+      "performance": 0.37,
+      "accessibility": 0.95,
+      "best-practices": 0.93,
+      "seo": 0.9,
+      "pwa": 0.5
+    }
+  },
+  {
+    "url": "https://the-goonies.webflow.io/",
+    "name": "the-goonies_webflow_io_",
+    "file": "the-goonies_webflow_io_.report.json",
+    "score": 0.69,
+    "detail": {
+      "performance": 0.54,
+      "accessibility": 0.86,
+      "best-practices": 0.73,
+      "seo": 1,
+      "pwa": 0.33
+    }
+  },
+  {
+    "url": "https://www.resplendencedesignstudio.com/",
+    "name": "www_resplendencedesignstudio_com_",
+    "file": "www_resplendencedesignstudio_com_.report.json",
+    "score": 0.8,
+    "detail": {
+      "performance": 0.65,
+      "accessibility": 0.93,
+      "best-practices": 0.93,
+      "seo": 1,
+      "pwa": 0.5
+    }
+  },
+  {
+    "url": "https://www.calloncourage.com/",
+    "name": "www_calloncourage_com_",
+    "file": "www_calloncourage_com_.report.json",
+    "score": 0.59,
+    "detail": {
+      "performance": 0.27,
+      "accessibility": 0.78,
+      "best-practices": 0.73,
+      "seo": 0.69,
+      "pwa": 0.5
+    }
+  },
+  {
+    "url": "https://www.digitalchina.university/",
+    "name": "www_digitalchina_university_",
+    "file": "www_digitalchina_university_.report.json",
+    "score": 0.8,
+    "detail": {
+      "performance": 0.56,
+      "accessibility": 0.95,
+      "best-practices": 1,
+      "seo": 1,
+      "pwa": 0.5
+    }
+  },
+  {
+    "url": "https://www.bobbyrowe.com/",
+    "name": "www_bobbyrowe_com_",
+    "file": "www_bobbyrowe_com_.report.json",
+    "score": 0.79,
+    "detail": {
+      "performance": 0.55,
+      "accessibility": 0.98,
+      "best-practices": 1,
+      "seo": 0.92,
+      "pwa": 0.5
+    }
+  },
+  {
+    "url": "https://www.ls.graphics/",
+    "name": "www_ls_graphics_",
+    "file": "www_ls_graphics_.report.json",
+    "score": 0.71,
+    "detail": {
+      "performance": 0.49,
+      "accessibility": 0.92,
+      "best-practices": 0.67,
+      "seo": 0.99,
+      "pwa": 0.5
+    }
+  },
+  {
+    "url": "https://www.madebyserve.com/",
+    "name": "www_madebyserve_com_",
+    "file": "www_madebyserve_com_.report.json",
+    "score": 0.8,
+    "detail": {
+      "performance": 0.56,
+      "accessibility": 0.96,
+      "best-practices": 1,
+      "seo": 0.97,
+      "pwa": 0.5
+    }
+  },
+  {
+    "url": "https://values.justdisco.com/",
+    "name": "values_justdisco_com_",
+    "file": "values_justdisco_com_.report.json",
+    "score": 0.64,
+    "detail": {
+      "performance": 0.2,
+      "accessibility": 0.84,
+      "best-practices": 0.73,
+      "seo": 0.92,
+      "pwa": 0.5
+    }
+  },
+  {
+    "url": "https://dayflow.blush.design/",
+    "name": "dayflow_blush_design_",
+    "file": "dayflow_blush_design_.report.json",
+    "score": 0.83,
+    "detail": {
+      "performance": 0.77,
+      "accessibility": 0.96,
+      "best-practices": 0.93,
+      "seo": 1,
+      "pwa": 0.5
+    }
+  }
+]

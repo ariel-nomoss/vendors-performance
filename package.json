@@ -1,0 +1,12 @@
+{
+  "name": "vendors-performance",
+  "version": "1.0.0",
+  "description": "Analysis of web pages performance from the vendors being tested to replace WordPress.",
+  "main": "index.js",
+  "author": "Ariel Rahmane",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "lighthouse-batch": "^8.1.1"
+  }
+}
