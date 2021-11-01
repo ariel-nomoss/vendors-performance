@@ -1,0 +1,106 @@
+[
+  {
+    "url": "https://www.singsaver.com.sg/blog/",
+    "name": "www_singsaver_com_sg_blog_",
+    "file": "www_singsaver_com_sg_blog_.report.json",
+    "score": 0.66,
+    "detail": {
+      "performance": 0.46,
+      "accessibility": 0.81,
+      "best-practices": 0.93,
+      "seo": 0.75,
+      "pwa": 0.36
+    }
+  },
+  {
+    "url": "https://www.singsaver.com.sg/blog/best-sim-only-no-contract-plans-for-light-moderate-and-heavy-data-users",
+    "name": "www_singsaver_com_sg_blog_best-sim-only-no-contract-plans-for-light-moderate-and-heavy-data-users",
+    "file": "www_singsaver_com_sg_blog_best-sim-only-no-contract-plans-for-light-moderate-and-heavy-data-users.report.json",
+    "score": 0.66,
+    "detail": {
+      "performance": 0.62,
+      "accessibility": 0.89,
+      "best-practices": 0.8,
+      "seo": 0.64,
+      "pwa": 0.36
+    }
+  },
+  {
+    "url": "https://www.singsaver.com.sg/blog/credit-card-promotions-deals",
+    "name": "www_singsaver_com_sg_blog_credit-card-promotions-deals",
+    "file": "www_singsaver_com_sg_blog_credit-card-promotions-deals.report.json",
+    "score": 0.68,
+    "detail": {
+      "performance": 0.64,
+      "accessibility": 0.86,
+      "best-practices": 0.8,
+      "seo": 0.73,
+      "pwa": 0.36
+    }
+  },
+  {
+    "url": "https://www.singsaver.com.sg/blog/aig-home-insurance-singapore-review",
+    "name": "www_singsaver_com_sg_blog_aig-home-insurance-singapore-review",
+    "file": "www_singsaver_com_sg_blog_aig-home-insurance-singapore-review.report.json",
+    "score": 0.69,
+    "detail": {
+      "performance": 0.68,
+      "accessibility": 0.89,
+      "best-practices": 0.8,
+      "seo": 0.73,
+      "pwa": 0.36
+    }
+  },
+  {
+    "url": "https://www.singsaver.com.sg/blog/guide-to-personal-loans-from-licensed-moneylenders-singapore",
+    "name": "www_singsaver_com_sg_blog_guide-to-personal-loans-from-licensed-moneylenders-singapore",
+    "file": "www_singsaver_com_sg_blog_guide-to-personal-loans-from-licensed-moneylenders-singapore.report.json",
+    "score": 0.69,
+    "detail": {
+      "performance": 0.68,
+      "accessibility": 0.88,
+      "best-practices": 0.8,
+      "seo": 0.73,
+      "pwa": 0.36
+    }
+  },
+  {
+    "url": "https://www.singsaver.com.sg/blog/home-insurance-promotions-and-discounts",
+    "name": "www_singsaver_com_sg_blog_home-insurance-promotions-and-discounts",
+    "file": "www_singsaver_com_sg_blog_home-insurance-promotions-and-discounts.report.json",
+    "score": 0.69,
+    "detail": {
+      "performance": 0.7,
+      "accessibility": 0.87,
+      "best-practices": 0.8,
+      "seo": 0.73,
+      "pwa": 0.36
+    }
+  },
+  {
+    "url": "https://www.singsaver.com.sg/blog/optimise-income-tax-for-investment-returns",
+    "name": "www_singsaver_com_sg_blog_optimise-income-tax-for-investment-returns",
+    "file": "www_singsaver_com_sg_blog_optimise-income-tax-for-investment-returns.report.json",
+    "score": 0.68,
+    "detail": {
+      "performance": 0.62,
+      "accessibility": 0.89,
+      "best-practices": 0.8,
+      "seo": 0.73,
+      "pwa": 0.36
+    }
+  },
+  {
+    "url": "https://www.singsaver.com.sg/blog/travel-insurance-promotions-and-discounts-2021",
+    "name": "www_singsaver_com_sg_blog_travel-insurance-promotions-and-discounts-2021",
+    "file": "www_singsaver_com_sg_blog_travel-insurance-promotions-and-discounts-2021.report.json",
+    "score": 0.65,
+    "detail": {
+      "performance": 0.56,
+      "accessibility": 0.89,
+      "best-practices": 0.8,
+      "seo": 0.64,
+      "pwa": 0.36
+    }
+  }
+]

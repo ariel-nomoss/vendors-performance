@@ -1,0 +1,379 @@
+[
+  {
+    "url": "https://www.hivedigitalstrategy.com/",
+    "name": "www_hivedigitalstrategy_com_",
+    "file": "www_hivedigitalstrategy_com_.report.json",
+    "score": 0.69,
+    "detail": {
+      "performance": 0.52,
+      "accessibility": 0.87,
+      "best-practices": 0.8,
+      "seo": 0.92,
+      "pwa": 0.36
+    }
+  },
+  {
+    "url": "https://www.core.co.uk/",
+    "name": "www_core_co_uk_",
+    "file": "www_core_co_uk_.report.json",
+    "score": 0.72,
+    "detail": {
+      "performance": 0.51,
+      "accessibility": 0.88,
+      "best-practices": 0.87,
+      "seo": 1,
+      "pwa": 0.36
+    }
+  },
+  {
+    "url": "https://www.stellarrecruitment.com/",
+    "name": "www_stellarrecruitment_com_",
+    "file": "www_stellarrecruitment_com_.report.json",
+    "score": 0.66,
+    "detail": {
+      "performance": 0.45,
+      "accessibility": 0.79,
+      "best-practices": 0.8,
+      "seo": 0.83,
+      "pwa": 0.45
+    }
+  },
+  {
+    "url": "https://www.tribes.world/en/",
+    "name": "www_tribes_world_en_",
+    "file": "www_tribes_world_en_.report.json",
+    "score": 0.69,
+    "detail": {
+      "performance": 0.67,
+      "accessibility": 0.87,
+      "best-practices": 0.93,
+      "seo": 0.64,
+      "pwa": 0.36
+    }
+  },
+  {
+    "url": "https://www.plum.io/",
+    "name": "www_plum_io_",
+    "file": "www_plum_io_.report.json",
+    "score": 0.65,
+    "detail": {
+      "performance": 0.52,
+      "accessibility": 0.83,
+      "best-practices": 0.8,
+      "seo": 0.75,
+      "pwa": 0.36
+    }
+  },
+  {
+    "url": "https://www.fittingbox.com/en/",
+    "name": "www_fittingbox_com_en_",
+    "file": "www_fittingbox_com_en_.report.json",
+    "score": 0.63,
+    "detail": {
+      "performance": 0.26,
+      "accessibility": 0.84,
+      "best-practices": 0.87,
+      "seo": 0.83,
+      "pwa": 0.36
+    }
+  },
+  {
+    "url": "https://www.cognism.com/",
+    "name": "www_cognism_com_",
+    "file": "www_cognism_com_.report.json",
+    "score": 0.62,
+    "detail": {
+      "performance": 0.48,
+      "accessibility": 0.71,
+      "best-practices": 0.73,
+      "seo": 0.83,
+      "pwa": 0.36
+    }
+  },
+  {
+    "url": "https://www.tempo.io/",
+    "name": "www_tempo_io_",
+    "file": "www_tempo_io_.report.json",
+    "score": 0.72,
+    "detail": {
+      "performance": 0.62,
+      "accessibility": 0.92,
+      "best-practices": 0.8,
+      "seo": 0.92,
+      "pwa": 0.36
+    }
+  },
+  {
+    "url": "https://www.onshape.com/en/",
+    "name": "www_onshape_com_en_",
+    "file": "www_onshape_com_en_.report.json",
+    "score": 0.64,
+    "detail": {
+      "performance": 0.34,
+      "accessibility": 0.89,
+      "best-practices": 0.67,
+      "seo": 0.92,
+      "pwa": 0.36
+    }
+  },
+  {
+    "url": "https://agency.impactbnd.com/hubspot-diamond-partner",
+    "name": "agency_impactbnd_com_hubspot-diamond-partner",
+    "file": "agency_impactbnd_com_hubspot-diamond-partner.report.json",
+    "score": 0.61,
+    "detail": {
+      "performance": 0.17,
+      "accessibility": 0.79,
+      "best-practices": 0.8,
+      "seo": 0.83,
+      "pwa": 0.45
+    }
+  },
+  {
+    "url": "https://www.webdew.com/",
+    "name": "www_webdew_com_",
+    "file": "www_webdew_com_.report.json",
+    "score": 0.63,
+    "detail": {
+      "performance": 0.35,
+      "accessibility": 0.88,
+      "best-practices": 0.8,
+      "seo": 0.75,
+      "pwa": 0.36
+    }
+  },
+  {
+    "url": "https://www.smartbugmedia.com/",
+    "name": "www_smartbugmedia_com_",
+    "file": "www_smartbugmedia_com_.report.json",
+    "score": 0.66,
+    "detail": {
+      "performance": 0.39,
+      "accessibility": 0.94,
+      "best-practices": 0.8,
+      "seo": 0.83,
+      "pwa": 0.36
+    }
+  },
+  {
+    "url": "https://www.digital22.com/",
+    "name": "www_digital22_com_",
+    "file": "www_digital22_com_.report.json",
+    "score": 0.74,
+    "detail": {
+      "performance": 0.57,
+      "accessibility": 0.92,
+      "best-practices": 0.93,
+      "seo": 0.92,
+      "pwa": 0.36
+    }
+  },
+  {
+    "url": "https://securelink.net/",
+    "name": "securelink_net_",
+    "file": "securelink_net_.report.json",
+    "score": 0.77,
+    "detail": {
+      "performance": 0.71,
+      "accessibility": 0.96,
+      "best-practices": 0.8,
+      "seo": 0.92,
+      "pwa": 0.45
+    }
+  },
+  {
+    "url": "https://www.teknionusa.com/",
+    "name": "www_teknionusa_com_",
+    "file": "www_teknionusa_com_.report.json",
+    "score": 0.68,
+    "detail": {
+      "performance": 0.62,
+      "accessibility": 0.86,
+      "best-practices": 0.73,
+      "seo": 0.83,
+      "pwa": 0.36
+    }
+  },
+  {
+    "url": "https://www.newbreedmarketing.com/",
+    "name": "www_newbreedmarketing_com_",
+    "file": "www_newbreedmarketing_com_.report.json",
+    "score": 0.7,
+    "detail": {
+      "performance": 0.4,
+      "accessibility": 0.98,
+      "best-practices": 0.93,
+      "seo": 0.83,
+      "pwa": 0.36
+    }
+  },
+  {
+    "url": "https://www.more-fire.com/inbound-marketing/hubspot-agentur/?utm_source=hubspot",
+    "name": "www_more-fire_com_inbound-marketing_hubspot-agentur__utm_source=hubspot",
+    "file": "www_more-fire_com_inbound-marketing_hubspot-agentur__utm_source=hubspot.report.json",
+    "score": 0.68,
+    "detail": {
+      "performance": 0.26,
+      "accessibility": 0.83,
+      "best-practices": 0.73,
+      "seo": 0.92,
+      "pwa": 0.64
+    }
+  },
+  {
+    "url": "https://blog.hamiltonbeach.com/",
+    "name": "blog_hamiltonbeach_com_",
+    "file": "blog_hamiltonbeach_com_.report.json",
+    "score": 0.53,
+    "detail": {
+      "performance": 0.2,
+      "accessibility": 0.71,
+      "best-practices": 0.73,
+      "seo": 0.64,
+      "pwa": 0.36
+    }
+  },
+  {
+    "url": "https://360.here.com/",
+    "name": "360_here_com_",
+    "file": "360_here_com_.report.json",
+    "score": 0.65,
+    "detail": {
+      "performance": 0.52,
+      "accessibility": 0.9,
+      "best-practices": 0.67,
+      "seo": 0.82,
+      "pwa": 0.36
+    }
+  },
+  {
+    "url": "https://www.saltedstone.com/",
+    "name": "www_saltedstone_com_",
+    "file": "www_saltedstone_com_.report.json",
+    "score": 0.65,
+    "detail": {
+      "performance": 0.4,
+      "accessibility": 0.92,
+      "best-practices": 0.67,
+      "seo": 0.83,
+      "pwa": 0.45
+    }
+  },
+  {
+    "url": "https://www.compleatsoftware.com/",
+    "name": "www_compleatsoftware_com_",
+    "file": "www_compleatsoftware_com_.report.json",
+    "score": 0.72,
+    "detail": {
+      "performance": 0.41,
+      "accessibility": 0.95,
+      "best-practices": 0.87,
+      "seo": 1,
+      "pwa": 0.36
+    }
+  },
+  {
+    "url": "https://www.quinyx.com/",
+    "name": "www_quinyx_com_",
+    "file": "www_quinyx_com_.report.json",
+    "score": 0.67,
+    "detail": {
+      "performance": 0.53,
+      "accessibility": 0.88,
+      "best-practices": 0.73,
+      "seo": 0.83,
+      "pwa": 0.36
+    }
+  },
+  {
+    "url": "http://www.dps-solutions.co.uk/",
+    "name": "www_dps-solutions_co_uk_",
+    "file": "www_dps-solutions_co_uk_.report.json",
+    "score": 0.59,
+    "detail": {
+      "performance": 0.2,
+      "accessibility": 0.75,
+      "best-practices": 0.73,
+      "seo": 0.83,
+      "pwa": 0.45
+    }
+  },
+  {
+    "url": "https://safebreach.com/",
+    "name": "safebreach_com_",
+    "file": "safebreach_com_.report.json",
+    "score": 0.73,
+    "detail": {
+      "performance": 0.45,
+      "accessibility": 0.86,
+      "best-practices": 0.87,
+      "seo": 0.83,
+      "pwa": 0.64
+    }
+  },
+  {
+    "url": "https://www.hubspot.com/",
+    "name": "www_hubspot_com_",
+    "file": "www_hubspot_com_.report.json",
+    "score": 0.71,
+    "detail": {
+      "performance": 0.6,
+      "accessibility": 0.81,
+      "best-practices": 0.8,
+      "seo": 1,
+      "pwa": 0.36
+    }
+  },
+  {
+    "url": "https://www.tdindustries.com/",
+    "name": "www_tdindustries_com_",
+    "file": "www_tdindustries_com_.report.json",
+    "score": 0.77,
+    "detail": {
+      "performance": 0.78,
+      "accessibility": 0.98,
+      "best-practices": 0.73,
+      "seo": 1,
+      "pwa": 0.36
+    }
+  },
+  {
+    "url": "https://designers.hubspot.com/inspire",
+    "name": "designers_hubspot_com_inspire",
+    "file": "designers_hubspot_com_inspire.report.json",
+    "score": 0.67,
+    "detail": {
+      "performance": 0.65,
+      "accessibility": 0.9,
+      "best-practices": 0.6,
+      "seo": 0.83,
+      "pwa": 0.36
+    }
+  },
+  {
+    "url": "https://www.signature-systems.com/",
+    "name": "www_signature-systems_com_",
+    "file": "www_signature-systems_com_.report.json",
+    "score": 0.59,
+    "detail": {
+      "performance": 0.15,
+      "accessibility": 0.86,
+      "best-practices": 0.73,
+      "seo": 0.83,
+      "pwa": 0.36
+    }
+  },
+  {
+    "url": "https://www.catapush.com/",
+    "name": "www_catapush_com_",
+    "file": "www_catapush_com_.report.json",
+    "score": 0.69,
+    "detail": {
+      "performance": 0.29,
+      "accessibility": 0.89,
+      "best-practices": 0.8,
+      "seo": 0.82,
+      "pwa": 0.64
+    }
+  }
+]

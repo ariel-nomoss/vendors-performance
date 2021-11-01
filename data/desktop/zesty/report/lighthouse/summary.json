@@ -1,0 +1,54 @@
+[
+  {
+    "url": "https://alphauniverse.com/",
+    "name": "alphauniverse_com_",
+    "file": "alphauniverse_com_.report.json",
+    "score": 0.65,
+    "detail": {
+      "performance": 0.44,
+      "accessibility": 0.84,
+      "best-practices": 0.67,
+      "seo": 0.83,
+      "pwa": 0.45
+    }
+  },
+  {
+    "url": "https://singlife.com.ph/",
+    "name": "singlife_com_ph_",
+    "file": "singlife_com_ph_.report.json",
+    "score": 0.63,
+    "detail": {
+      "performance": 0.37,
+      "accessibility": 0.69,
+      "best-practices": 0.8,
+      "seo": 0.75,
+      "pwa": 0.55
+    }
+  },
+  {
+    "url": "https://aemchina.com/",
+    "name": "aemchina_com_",
+    "file": "aemchina_com_.report.json",
+    "score": 0.71,
+    "detail": {
+      "performance": 0.73,
+      "accessibility": 0.89,
+      "best-practices": 0.67,
+      "seo": 0.82,
+      "pwa": 0.45
+    }
+  },
+  {
+    "url": "https://rocketleague.com/",
+    "name": "rocketleague_com_",
+    "file": "rocketleague_com_.report.json",
+    "score": 0.68,
+    "detail": {
+      "performance": 0.67,
+      "accessibility": 0.8,
+      "best-practices": 0.8,
+      "seo": 0.75,
+      "pwa": 0.36
+    }
+  }
+]
